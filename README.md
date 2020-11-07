@@ -57,8 +57,8 @@ In the Playing Palette, we observe a grid of tiles of different colors (encoded 
 ## Objective of the game:
 After getting familiar with the window of the game. It then comes to how to play? As we can see in the paranthesis, a RGB value is given which refreshes with every turn or new game. The objective of the game is to figure out the colored tiles which has the same RGB value as given in the paranthesis.
 <div align="center">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy(TryAgain).JPG" height="275" width="500">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard(TryAgain).JPG" height="275" width="500">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy(TryAgain).JPG" height="275" width="480">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard(TryAgain).JPG" height="275" width="480">
 </div>
 The game keeps on going untill the correct tile is selected.
 
@@ -66,6 +66,6 @@ The game keeps on going untill the correct tile is selected.
 ## How does the game end?
 The game finishes after correctly guessing the RGB Valued Tile!!
 <div align="center">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy(Correct).JPG" height="275" width="500">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard(Correct).JPG" height="275" width="500">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy(Correct).JPG" height="275" width="480">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard(Correct).JPG" height="275" width="480">
 </div>
