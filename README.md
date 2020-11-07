@@ -23,7 +23,7 @@ This is a mini project to learn structure forming using DOM methods in HTML, CSS
 As we open the project we land on the page *as shown in fig.1*.
 The window is classified into two divisions:<br/> 
 1. [Navigation Bar](#Navigation-Bar)
-2. [Playing Palette](#Playing-Bar).
+2. [Playing Palette](#Playing-Palette).
 
 ### Navigation Bar
 <div align="center">
