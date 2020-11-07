@@ -9,14 +9,15 @@
 - [Landing Page](#Landing-Page)
   - [Navigation Bar](#Navigation-Bar)
   - [Playing Palette](#Playing-Palette)
-- [How to Play?](#How-to-Play?)
+- [Objective of the Game](#Objective-of-the-game)
+- [How does the game end?](#How-does-the-game-end?)
 
 
 ## Introduction:-
 This is a mini project to learn structure forming using DOM methods in HTML, CSS and JS, that I learnt during my "Web Developer Bootcamp".
 <div align="center">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy.JPG" height="125" width="300">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard.JPG" height="125" width="300">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy.JPG" height="300" width="500">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard.JPG" height="300" width="500">
 </div>
 
 
@@ -56,8 +57,8 @@ In the Playing Palette, we observe a grid of tiles of different colors (encoded 
 ## Objective of the game:-
 After getting familiar with the window of the game. It then comes to how to play? As we can see in the paranthesis, a RGB value is given which refreshes with every turn or new game. The objective of the game is to figure out the colored tiles which has the same RGB value as given in the paranthesis.
 <div align="center">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy(TryAgain).JPG" height="150" width="300">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard(TryAgain).JPG" height="150" width="300">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy(TryAgain).JPG" height="300" width="500">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard(TryAgain).JPG" height="300" width="500">
 </div>
 The game keeps on going untill the correct tile is selected.
 
@@ -65,6 +66,6 @@ The game keeps on going untill the correct tile is selected.
 ## How does the game end?
 The game finishes after correctly guessing the RGB Valued Tile!!
 <div align="center">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy(Correct).JPG" height="150" width="300">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard(Correct).JPG" height="150" width="300">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy(Correct).JPG" height="300" width="500">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard(Correct).JPG" height="300" width="500">
 </div>
