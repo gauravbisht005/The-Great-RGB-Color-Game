@@ -1,7 +1,6 @@
 <div align="center">
 
 # The Great RGB Color Game
-
 </div>
 
 
