@@ -16,8 +16,8 @@
 ## Introduction:
 This is a mini project to learn structure forming using DOM methods in HTML, CSS and JS, that I learnt during my "Web Developer Bootcamp".
 <div align="center">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy.JPG" height="275" width="475">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard.JPG" height="275" width="475">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy.JPG" height="275" width="480">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard.JPG" height="275" width="480">
 </div>
 
 
