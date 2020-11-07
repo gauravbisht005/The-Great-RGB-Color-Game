@@ -29,15 +29,18 @@ The window is classified into two divisions:<br/>
 <div align="center">
   <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/NavBar.JPG" height="" width="">
 </div>
-In the Navigation Bar, we can see the **title** of the game, a **RGB Value** enclosed within paranthesis, **New Colors** tab, and the **Mode of difficulty**.
-Title
-: The Great RGB Color Game
-RGB Value
-: It is a color scheme that represents the intensities of Red, Green and Blue color in forming a color. Each intensity value caries within a range of 0 to 255.
-New Colors
-: This tab refreshes the color tiles in the Playing Palette.
-Mode of Difficulty
-: This section represents 2 buttons: Easy and Hard, denoting the difficulty level by increasing or decreasing the number of tiles in the Playing Palette.
+In the Navigation Bar, we can see the **Title** of the game, a **RGB Value** enclosed within paranthesis, **New Colors** tab, and the **Mode of difficulty**.
+<dl>
+  <dt>Title:</dt>
+  <dd>The Great RGB Color Game</dd>
+  <dt>RGB Value: </dt>
+  <dd>It is a color scheme that represents the intensities of Red, Green and Blue color in forming a color. Each intensity value caries within a range of 0 to 255.</dd>
+  <dt>New Colors:</dt>
+  <dd>This tab refreshes the color tiles in the Playing Palette.</dd>
+  <dt>Mode of Difficulty:</dt>
+  <dd>This section represents 2 buttons: Easy and Hard, denoting the difficulty level by increasing or decreasing the number of tiles in the Playing Palette.</dd>
+</dl>
+
 
 ### Playing Palette
 <div align="center">
