@@ -1,4 +1,7 @@
-# Color-Guessing-Game
+<center>
+
+# The Great RGB Color Game
+</center>
 
 
 ## Table of Contents
@@ -11,7 +14,7 @@
 
 ## Introduction
 This is a mini project to learn structure forming using DOM methods in HTML, CSS and JS, that I learnt during my "Web Developer Bootcamp".
-<img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy.JPG" height="350" width="625"><center><figcaption>Fig. 1: Landing Page</figcaption></center><br />
+<center><img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy.JPG" height="350" width="625"><figcaption>Fig. 1: Landing Page</figcaption></center>
 
 
 ## Landing Page
