@@ -27,7 +27,7 @@ The window is classified into two divisions:<br/>
 
 ### Navigation Bar
 <div align="center">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/NavBar.JPG" height="350" width="625">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/NavBar.JPG" height="" width="">
 </div>
 In the Navigation Bar, we can see the **title** of the game, a **RGB Value** enclosed within paranthesis, **New Colors** tab, and the **Mode of difficulty**.
 Title
@@ -41,8 +41,8 @@ Mode of Difficulty
 
 ### Playing Palette
 <div align="center">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette (Easy).JPG" height="350" width="625">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette (Hard).JPG" height="350" width="625">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette (Easy).JPG" height="" width="">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette (Hard).JPG" height="" width="">
 </div>
 In the Playing Palette, we observe a grid of tiles of different colors and of varying numbers depending upo the mode of difficulty selested.
 
