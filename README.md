@@ -4,8 +4,8 @@
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Landing Page](#Landing-Page)
-  - [Navigation Bar](# Navigation Bar)
-  - [Playing Palette](# Playing Palette)
+  - [Navigation Bar](# Navigation-Bar)
+  - [Playing Palette](# Playing-Palette)
 - []()
 
 
