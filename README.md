@@ -10,7 +10,7 @@
   - [Navigation Bar](#Navigation-Bar)
   - [Playing Palette](#Playing-Palette)
 - [Objective of the Game](#Objective-of-the-game)
-- [How does the game end?](#How-does-the-game-end?)
+- [How does the game end?](#How-does-the-game-end-?)
 
 
 ## Introduction:
@@ -49,8 +49,8 @@ In the Navigation Bar, we can see the **Title** of the game, a **RGB Value** enc
 ### Playing Palette:
 In the Playing Palette, we observe a grid of tiles of different colors (encoded using RGB Color Scheme) and of varying numbers depending upon the mode of difficulty selected.
 <div align="center">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette(Easy).JPG">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette(Hard).JPG">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette (Easy).JPG">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette (Hard).JPG">
 </div>
 
 
