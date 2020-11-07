@@ -21,7 +21,7 @@ This is a mini project to learn structure forming using DOM methods in HTML, CSS
 </div>
 
 
-## Landing Page :
+## Landing Page:
 As we open the project we land on the page *as shown above*.
 The window is classified into two divisions:<br/> 
 1. [Navigation Bar](#Navigation-Bar)
@@ -54,7 +54,7 @@ In the Playing Palette, we observe a grid of tiles of different colors (encoded 
 </div>
 
 
-## Objective of the game:-
+## Objective of the game:
 After getting familiar with the window of the game. It then comes to how to play? As we can see in the paranthesis, a RGB value is given which refreshes with every turn or new game. The objective of the game is to figure out the colored tiles which has the same RGB value as given in the paranthesis.
 <div align="center">
   <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy(TryAgain).JPG" height="275" width="500">
