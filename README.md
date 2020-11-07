@@ -15,13 +15,14 @@
 ## Introduction
 This is a mini project to learn structure forming using DOM methods in HTML, CSS and JS, that I learnt during my "Web Developer Bootcamp".
 <div align="center">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy.JPG" height="350" width="625"><figcaption>Fig. 1: Landing Page</figcaption>
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy.JPG" height="350" width="625">
+  <figcaption>Fig. 1: Landing Page</figcaption>
 </div>
 
 
 ## Landing Page
 As we open the project we land on the page *as shown in fig.1*.
-The window is classified into two divisions: The Navigation Bar and the Playing Palette.
+The window is classified into two divisions: The Navigation Bar(#Navigation-Bar) and the Playing Palette(#Playing-Bar).
 
 ### Navigation Bar
 <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/NavBar.JPG" height="350" width="625"><center><figcaption>Fig. 1: Landing Page</figcaption></center><br />
