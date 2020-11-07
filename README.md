@@ -10,7 +10,7 @@
   - [Navigation Bar](#Navigation-Bar)
   - [Playing Palette](#Playing-Palette)
 - [Objective of the Game](#Objective-of-the-game)
-- [How does the game end?](#How-does-the-game-end-?)
+- [How does the game end?](#How-does-the-game-end)
 
 
 ## Introduction:
