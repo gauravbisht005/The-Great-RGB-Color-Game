@@ -20,14 +20,14 @@ This is a mini project to learn structure forming using DOM methods in HTML, CSS
 
 
 ## Landing Page
-As we open the project we land on the page *as shown in fig.1*.
+As we open the project we land on the page *as shown above*.
 The window is classified into two divisions:<br/> 
 1. [Navigation Bar](#Navigation-Bar)
 2. [Playing Palette](#Playing-Palette).
 
 ### Navigation Bar
 <div align="center">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/NavBar.JPG" height="" width="">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Navigation Bar.JPG" height="" width="">
 </div>
 
 In the Navigation Bar, we can see the **Title** of the game, a **RGB Value** enclosed within paranthesis, **New Colors** tab, and the **Mode of difficulty**.
@@ -48,6 +48,4 @@ In the Navigation Bar, we can see the **Title** of the game, a **RGB Value** enc
   <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette (Easy).JPG" height="" width="">
   <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette (Hard).JPG" height="" width="">
 </div>
-In the Playing Palette, we observe a grid of tiles of different colors and of varying numbers depending upo the mode of difficulty selested.
-
-In this mini game, there are 2 different difficulty levels: Easy and Hard. In the easy mode there are **only** 3 colored tiles
+In the Playing Palette, we observe a grid of tiles of different colors and of varying numbers depending upo the mode of difficulty selected.
