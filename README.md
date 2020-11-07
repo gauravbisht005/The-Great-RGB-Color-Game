@@ -1,7 +1,8 @@
-<center>
+<div align="center">
 
 # The Great RGB Color Game
-</center>
+
+</div>
 
 
 ## Table of Contents
