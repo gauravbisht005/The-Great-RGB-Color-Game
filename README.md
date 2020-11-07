@@ -47,16 +47,16 @@ In the Navigation Bar, we can see the **Title** of the game, a **RGB Value** enc
 ### Playing Palette:
 In the Playing Palette, we observe a grid of tiles of different colors (encoded using RGB Color Scheme) and of varying numbers depending upon the mode of difficulty selected.
 <div align="center">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette (Easy).JPG">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette (Hard).JPG">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette(Easy).JPG">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette(Hard).JPG">
 </div>
 
 
 ## Objective of the game:-
 After getting familiar with the window of the game. It then comes to how to play? As we can see in the paranthesis, a RGB value is given which refreshes with every turn or new game. The objective of the game is to figure out the colored tiles which has the same RGB value as given in the paranthesis.
 <div align="center">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy (Try Again).JPG">
-  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard (Try Again).JPG">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy(TryAgain).JPG">
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Hard(TryAgain).JPG">
 </div>
 The game keeps on going untill the correct tile is selected.
 
