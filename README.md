@@ -4,7 +4,7 @@
 </div>
 
 
-## Table of Contents
+## Table of Contents:
 - [Introduction](#Introduction)
 - [Landing Page](#Landing-Page)
   - [Navigation Bar](#Navigation-Bar)
@@ -12,20 +12,20 @@
 - []()
 
 
-## Introduction
+## Introduction: 
 This is a mini project to learn structure forming using DOM methods in HTML, CSS and JS, that I learnt during my "Web Developer Bootcamp".
 <div align="center">
   <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy.JPG" height="350" width="625">
 </div>
 
 
-## Landing Page
+## Landing Page:
 As we open the project we land on the page *as shown above*.
 The window is classified into two divisions:<br/> 
 1. [Navigation Bar](#Navigation-Bar)
 2. [Playing Palette](#Playing-Palette).
 
-### Navigation Bar
+### Navigation Bar -
 <div align="center">
   <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Navigation Bar.JPG" height="" width="">
 </div>
@@ -43,7 +43,7 @@ In the Navigation Bar, we can see the **Title** of the game, a **RGB Value** enc
 </dl>
 
 
-### Playing Palette
+### Playing Palette -
 <div align="center">
   <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette (Easy).JPG" height="" width="">
   <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Playing Palette (Hard).JPG" height="" width="">
