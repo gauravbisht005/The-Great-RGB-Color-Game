@@ -29,6 +29,7 @@ The window is classified into two divisions:<br/>
 <div align="center">
   <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/NavBar.JPG" height="" width="">
 </div>
+
 In the Navigation Bar, we can see the **Title** of the game, a **RGB Value** enclosed within paranthesis, **New Colors** tab, and the **Mode of difficulty**.
 <dl>
   <dt>Title:</dt>
