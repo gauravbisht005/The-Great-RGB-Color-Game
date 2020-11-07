@@ -14,7 +14,10 @@
 
 ## Introduction
 This is a mini project to learn structure forming using DOM methods in HTML, CSS and JS, that I learnt during my "Web Developer Bootcamp".
-<center><img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy.JPG" height="350" width="625"><figcaption>Fig. 1: Landing Page</figcaption></center>
+<div align="center">
+  ![](https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy.JPG)
+  <img src="https://github.com/gauravbisht005/Color-Guessing-Game/blob/master/assets/Easy.JPG" height="350" width="625"><figcaption>Fig. 1: Landing Page</figcaption>
+</div>
 
 
 ## Landing Page
