@@ -1,6 +1,4 @@
 # Color-Guessing-Game
-It is my first project as part of my web developer boot camp so just enjoy and have fun! Will update it with frequent updates as far I as feel it should be. 
-
-Updates
-
-Addition of a score keeper.
+This is a mini project to learn structure forming using DOM methods in HTML, CSS and JS.
+<img src="">
+In this mini game, there are 2 different difficulty levels: Easy and Hard. In the easy mode there are **only** 3 colored tiles
