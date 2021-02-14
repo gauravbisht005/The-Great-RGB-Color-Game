@@ -1,6 +1,6 @@
 <div align="center">
 
-# [The Great RGB Color Game](https://gauravbisht005.github.io/The-Great-RGB-Color-Game/)
+# 👉[The Great RGB Color Game](https://gauravbisht005.github.io/The-Great-RGB-Color-Game/)👈
 </div>
 
 
